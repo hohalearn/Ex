@@ -56,3 +56,4 @@ Make sure that you run the server with `python3 app.py` or `python3 app.py -d`.
      -----------------+----------------+------------------------------------
       /logs           | filename       | Name of log file to retrive
      -----------------+----------------+------------------------------------
+- copy project from github !!!
